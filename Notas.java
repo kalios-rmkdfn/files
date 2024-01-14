@@ -14,8 +14,7 @@ public class Manual {
     private String articulo;
 
     // Constructor
-    public Manual(int id, String titulo, String categoria, LocalDate fecha, String ubicacion,
-                  String imagen, String resumen, String articulo) {
+    public Manual(int id, String titulo, String categoria, LocalDate fecha, String ubicacion, String imagen, String resumen, String articulo) {
         this.id = id;
         this.titulo = titulo;
         this.categoria = categoria;
