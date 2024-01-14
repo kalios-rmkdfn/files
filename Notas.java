@@ -3,7 +3,8 @@ package com.servlet.modelo.entity;
 import java.time.LocalDate;
 
 public class Manual {
-	private int id;
+	
+    private int id;
     private String titulo;
     private String categoria;
     private LocalDate fecha;
